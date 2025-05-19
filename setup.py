@@ -12,7 +12,7 @@ AUTHOR_EMAIL = "rajsoluky5323@gmail.com"
 
 setuptools.setup(
     name = SRC_REPO,
-    version = __version__,
+    version = __version__,  
     author=AUTHOR_USER_NAME,
     author_email=AUTHOR_EMAIL,
     description="A small python package for NLP App",
